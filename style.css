@@ -59,7 +59,7 @@ body {
   text-align: left;
   position: absolute;
   top:300px;
-  left: 150px;
+  left: 100px;
 }
 .four {
   text-align: center;
@@ -90,7 +90,7 @@ h2 {
   height: 400px;
   left: 0;
   position: absolute;
-  top: 2350px;
+  top: 2450px;
   width: 100%;
   background-color: white;
   padding-bottom: 40px;
@@ -99,7 +99,7 @@ h2 {
 .bottom-container {
   left: 0;
   position: absolute;
-  top: 2723px;
+  top: 2823px;
   width: 100%;
   background-color: #bcf5bc;
   padding-top: 50px;
