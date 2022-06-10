@@ -6,7 +6,7 @@ body {
   padding-right: 0;
   margin: 0;
   font-family: sans-serif;
-  zoom: 125%;
+  zoom: 150%;
 }
 
 .primary {
@@ -91,7 +91,7 @@ h2 {
   height: 400px;
   left: 0;
   position: absolute;
-  top: 2450px;
+  top: 2500px;
   width: 100%;
   background-color: white;
   padding-bottom: 40px;
@@ -100,7 +100,7 @@ h2 {
 .bottom-container {
   left: 0;
   position: absolute;
-  top: 2823px;
+  top: 2873px;
   width: 100%;
   background-color: #bcf5bc;
   padding-top: 50px;
