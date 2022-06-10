@@ -199,6 +199,10 @@ h3 {
   top: 0;
 }
 .contact1{
+  width: 500px;
   position: relative;
+  left:auto;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
 }
