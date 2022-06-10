@@ -71,6 +71,7 @@ h1 {
   font-family: 'Sacramento', cursive;
   font-size: 60px;
   width: 100%;
+  font-weight: bold;
 }
 
 h2 {
@@ -177,6 +178,7 @@ h2 {
 
 h3 {
   font-size: 30px;
+  line-height: 35px;
 }
 
 .profile {
