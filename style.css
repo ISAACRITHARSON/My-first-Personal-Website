@@ -32,7 +32,7 @@ body {
   text-align: right;
   position: relative;
   top: 60px;
-  right: 120px;
+  right: 80px;
 }
 
 .profileimg {
@@ -59,7 +59,7 @@ body {
   text-align: left;
   position: absolute;
   top:300px;
-  left: 80px;
+  left: 50px;
 }
 .four {
   text-align: center;
