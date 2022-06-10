@@ -68,7 +68,8 @@ body {
 }
 
 h1 {
-  font-family: 'Pacifico', cursive;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
   width: 100%;
   font-weight: bold;
 }
