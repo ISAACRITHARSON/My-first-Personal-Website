@@ -69,8 +69,10 @@ body {
 
 h1 {
   font-family: Sacramento,cursive !important;
-  font-size: 5.625rem;
+  font-size: 60px;
   width: 100%;
+  font-weight: bold;
+  text-rendering: optimizeLegibility;
 }
 
 h2 {
